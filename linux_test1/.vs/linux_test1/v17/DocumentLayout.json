@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C\u002B\u002B\u7EC3\u4E60\\linux_test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79AF65A3-87E7-4F9E-A205-81E3BD8BE5B9}|linux_test1.vcxproj|H:\\C\u002B\u002B\u7EC3\u4E60\\linux_test1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79AF65A3-87E7-4F9E-A205-81E3BD8BE5B9}|linux_test1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "H:\\C\u002B\u002B\u7EC3\u4E60\\linux_test1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "H:\\C\u002B\u002B\u7EC3\u4E60\\linux_test1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T12:59:13.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+cd /home/saber/projects/linux_test1/; g++ -o "/home/saber/projects/linux_test1/bin/x64/Debug/linux_test1.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/saber/projects/linux_test1/obj/x64/Debug/main.o
